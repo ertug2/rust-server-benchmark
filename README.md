@@ -17,7 +17,7 @@ apt-get install p7zip-full
 7z x benchmark2023_linux.7z
 ```
 
-4.) If you already ran the benchmark then delete the .sav and .map folders generated
+4.) If you already ran the benchmark then delete the .sav and .map folders generated in ./server/BenchMark/
 
 5.) Go into the extracted folder and run the benchmark with 8192 map world size. You may do so via either running [Bench]3_Hard-12.5GB-208.bat (Windows) or bench_3_Hard-12.5GB-208.sh (Linux) via the commands below:
 

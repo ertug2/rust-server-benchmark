@@ -4,7 +4,7 @@ This harmony-mod plugin is made by [@bmgjet](https://github.com/bmgjet), it also
 
 Steps to run benchmark:
 
-1.) Get a dedicated server, VPS or computer.
+1.) Get a dedicated server, VPS or computer that's running either Windows or Linux.
 
 2.) Download latest 7z release archive of this for your operating system, ([Windows](https://github.com/gmc-hosting/rust-server-benchmark/releases/download/v1.0.0/benchmark2023_windows.7z), [Linux](https://github.com/gmc-hosting/rust-server-benchmark/releases/download/v1.0.0/benchmark2023_linux.7z))
 

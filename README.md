@@ -1,6 +1,6 @@
 This is a basic harmony-mod based performance benchmark for the Rust game server. This includes the Windows and Linux version and is made for the staging build (13005895) of the Rust dedicated server files. That build of the server files are included.
 
-This harmony-mod plugin is made by (@bmgjet)[https://github.com/bmgjet], it also includes documentation on how to use below.
+This harmony-mod plugin is made by [@bmgjet](https://github.com/bmgjet), it also includes documentation on how to use below.
 
 Steps to run benchmark:
 
@@ -27,6 +27,6 @@ chmod +x bench_3_Hard-12.5GB-208.sh;chmod +x RustDedicated;
 ./bench_3_Hard-12.5GB-208.sh
 ```
 
-   -  This will generate a bench log file once finished testing the server which will have your results in it. Give it to (@bmgjet)[https://github.com/bmgjet] or somebody to graph it out and compare your results with others.
+   -  This will generate a bench log file once finished testing the server which will have your results in it. Give it to [@bmgjet](https://github.com/bmgjet) or somebody to graph it out and compare your results with others.
 
 6.) Profit.

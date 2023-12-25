@@ -27,6 +27,6 @@ chmod +x bench_3_Hard-12.5GB-208.sh;chmod +x RustDedicated;
 ./bench_3_Hard-12.5GB-208.sh
 ```
 
-   -  This will generate a bench log file once finished testing the server which will have your results in it. Give it to [@bmgjet](https://github.com/bmgjet) or somebody to graph it out and compare your results with others.
+   -  This will generate a bench log file in the same folder once finished running which will have your results in it. Give it to [@bmgjet](https://github.com/bmgjet) or somebody to graph it out so that you can compare your results with others.
 
 6.) Profit.

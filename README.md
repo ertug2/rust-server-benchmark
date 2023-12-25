@@ -6,7 +6,7 @@ Steps to run benchmark:
 
 1.) Get a dedicated server, VPS or computer that's running either Windows or Linux.
 
-2.) Download latest 7z release archive of this for your operating system, ([Windows](https://github.com/gmc-hosting/rust-server-benchmark/releases/download/v1.0.0/benchmark2023_windows.7z), [Linux](https://github.com/gmc-hosting/rust-server-benchmark/releases/download/v1.0.0/benchmark2023_linux.7z))
+2.) Download latest 7z release archive of this for your operating system, ([Windows](https://github.com/ertug2/rust-server-benchmark/releases/download/v1.0.0/benchmark2023_windows.7z), [Linux](https://github.com/ertug2/rust-server-benchmark/releases/download/v1.0.0/benchmark2023_linux.7z))
 
 3.) Extract the 7z archive into a folder
 

@@ -6,7 +6,7 @@ Steps to run benchmark:
 
 1.) Get a dedicated server, VPS or computer.
 
-2.) Download latest 7z release archive of this for your operating system, ([Windows]:(https://github.com/gmc-hosting/rust-server-benchmark/releases/download/v1.0.0/benchmark2023_windows.7z), [Linux]:(https://github.com/gmc-hosting/rust-server-benchmark/releases/download/v1.0.0/benchmark2023_linux.7z))
+2.) Download latest 7z release archive of this for your operating system, ([Windows](https://github.com/gmc-hosting/rust-server-benchmark/releases/download/v1.0.0/benchmark2023_windows.7z), [Linux](https://github.com/gmc-hosting/rust-server-benchmark/releases/download/v1.0.0/benchmark2023_linux.7z))
 
 3.) Extract the 7z archive into a folder
 
@@ -23,7 +23,7 @@ apt-get install p7zip-full
 
 
 ```
-chmod +x bench_3_Hard-12.5GB-208.sh
+chmod +x bench_3_Hard-12.5GB-208.sh;chmod +x RustDedicated;
 ./bench_3_Hard-12.5GB-208.sh
 ```
 
